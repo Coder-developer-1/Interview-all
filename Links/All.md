@@ -7,7 +7,7 @@
 
 
 #⭐TypeScript
-
+1. [Top 100 Typescript Interview Questions](https://github.com/Devinterview-io/typescript-interview-questions)
 
 #⭐Frontend
 1. [Frontend Interview Preparation for Interns & Junior Developers 📚](https://github.com/PriontoAbdullah/Frontend-Interview-Preparation-for-Interns-and-Junior-Developers)
